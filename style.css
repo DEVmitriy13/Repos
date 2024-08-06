@@ -7,3 +7,8 @@ body {
 #header2{
     color: white;
 }
+#rectangle{
+    height: 220px;
+    width: 120px;
+    background: rgba(255, 255, 255, 0.2);
+}
